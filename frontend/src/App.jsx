@@ -2,7 +2,7 @@ import { useState, useRef, useCallback, useEffect } from "react";
 import * as mammoth from "mammoth";
 
 /* ── BACKEND URL ── change this to your Render URL when deployed */
-const API_URL = "https://quizforge-xmpu.onrender.com/";
+const API_URL = "https://quizforge-xmpu.onrender.com";
 
 /* ══════════════════════════════════════════════
    GLOBAL STYLES
