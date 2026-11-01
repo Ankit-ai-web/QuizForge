@@ -94,7 +94,7 @@ Open [http://localhost:5173](http://localhost:5173)
 | Service | Platform | URL |
 |---------|----------|-----|
 | Backend API | Render | https://quizforge-xmpu.onrender.com |
-| Frontend | Netlify/Render | Your deployed URL |
+| Frontend | Render | https://quizforge-1-hgy8.onrender.com |
 
 ### Deploy Backend (Render)
 - Root Directory: `backend`
